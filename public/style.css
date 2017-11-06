@@ -2,10 +2,21 @@
 
 
 /* Header CSS */
+#header-image{
+    position: relative;
+    right: 0px;
+    height: 250px;
+    background-image: url("https://i.imgur.com/PrV9zHc.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
 #personal{
     /*margin: auto;*/
     /*width: 50%;*/
     
+}
+#side_bar{
+    position: fixed;
 }
 
 

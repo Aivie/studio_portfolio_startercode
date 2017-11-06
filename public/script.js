@@ -6,3 +6,10 @@
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
+/*for (var i = 0; i < projects.length; i++) {
+    console.log(projects[i].title);
+    var titleH1 = $("<h1>");
+    titleH1.append ()
+    // or .text
+    
+}*/
