@@ -9,4 +9,11 @@
     "site_url": "https://angular.io/",
     "source_url": "https://github.com/angular/angular.js",
     "image_url": "https://www.gstatic.com/opensource/project-images/angular/logo.svg"
+  },
+  {
+    "title": "Friendly Chat",
+    "site_url": "https://friendlychat-56ed1.firebaseapp.com",
+    "source_url": "https://github.com/Aivie/friendlychat-web",
+    "image_url": "https://"
+  }
 }]
