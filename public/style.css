@@ -1,15 +1,28 @@
 /* Nav Bar CSS */
 
+body{
+    overflow: scroll;
+}
 
 /* Header CSS */
-#header-image{
-    position: relative;
-    right: 0px;
-    height: 250px;
+#header{
+    width: 100%;
+    height: 200px;
     background-image: url("https://i.imgur.com/PrV9zHc.png");
-    background-repeat: no-repeat;
-    background-position: top right;
 }
+
+/*#header-image{*/
+/*    text-align: right;*/
+    /*height: 200px;*/
+    /*position: relative;*/
+    /*right: 0px;*/
+    /*left: 0px;*/
+    /*height: 200px;*/
+    /*background-image: url("https://i.imgur.com/PrV9zHc.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: top right;*/
+/*}*/
+
 #personal{
     /*margin: auto;*/
     /*width: 50%;*/
@@ -30,7 +43,16 @@
 
 
 /* Portfolio Item CSS */
+projects{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
 
+title{
+    
+}
 
 
 /* Footer CSS */
